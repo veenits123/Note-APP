@@ -35,4 +35,5 @@ if (command === 'add') {
   console.log(message);
 } else {
   console.log('Command not recognized');
+  //end
 }
